@@ -45,7 +45,7 @@ export function Footer({ developer }: FooterProps) {
             <Flex align="center" gap={2} mb={3} color="fg">
               <Code2 size={20} />
               <Text fontFamily="mono" fontWeight="semibold">
-                matheus.dev
+                matheusmf.dev
               </Text>
             </Flex>
             <Text color="muted" fontSize="sm" mb={4} maxW="280px" lineHeight={1.6}>

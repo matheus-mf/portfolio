@@ -83,7 +83,7 @@ export function Navigation() {
           >
             <Code2 size={20} />
             <Text fontFamily="mono" fontWeight="semibold" fontSize="sm">
-              matheus.dev
+              matheusmf.dev
             </Text>
           </Link>
 
