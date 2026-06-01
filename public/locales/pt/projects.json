@@ -1,0 +1,41 @@
+{
+  "eyebrow": "Portfólio",
+  "title": "Projetos em Destaque",
+  "filters": {
+    "all": "Todos",
+    "featured": "Destaques"
+  },
+  "status": {
+    "publicado": "Publicado",
+    "em-producao": "Em produção",
+    "open-source": "Open Source",
+    "mvp": "MVP",
+    "arquivado": "Arquivado"
+  },
+  "links": {
+    "github": "Ver código",
+    "demo": "Ver demo"
+  },
+  "items": {
+    "gpe": {
+      "name": "Gestão Presente na Escola (GPE) do MEC",
+      "description": "Plataforma do Governo Federal que moderniza a gestão das escolas públicas, automatizando matrículas, enturmação e diários de classe. Atuei como desenvolvedor e líder técnico na construção do sistema, que integra redes municipais a uma base nacional de dados educacionais."
+    },
+    "seo-dashboard": {
+      "name": "Dashboard de Análise de SEO",
+      "description": "Sistema de metrificação de SEO para grande varejista multinacional, integrando múltiplas APIs da Google Stack para monitorar performance de páginas, palavras-chave e taxa de conversão de vendas em um dashboard interativo."
+    },
+    "needs": {
+      "name": "NeeDS, Biblioteca de Componentes",
+      "description": "Design system institucionalizado inspirado na identidade visual do Governo Federal, criado para padronizar o desenvolvimento de mais de 10 equipes. Publicado via npm, eliminou a recriação redundante de componentes em todo o ecossistema."
+    },
+    "seu-sistema": {
+      "name": "Seu Sistema de restauração florestal",
+      "description": "Plataforma online que regulariza propriedades rurais com desmatamento ilegal na Amazônia, permitindo que produtores voltem ao mercado formal por meio de procedimentos técnicos auditáveis, com suporte de técnicos credenciados e monitoramento ambiental periódico."
+    },
+    "doce-doce": {
+      "name": "Site Institucional do Grupo Doce D'ocê",
+      "description": "O Grupo Doce D'ocê é a maior indústria de alimentos ultracongelados do Paraná, com 33 anos de história. O site apresenta sua trajetória, portfólio de marcas, presença nacional e os valores que fazem da empresa uma das melhores para se trabalhar no estado."
+    }
+  }
+}

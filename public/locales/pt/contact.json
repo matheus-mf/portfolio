@@ -1,0 +1,32 @@
+{
+  "eyebrow": "Contato",
+  "title": "Vamos trabalhar juntos",
+  "subtitle": "Aberto a projetos freelance, posições full-time e colaborações técnicas.",
+  "form": {
+    "name": "Nome",
+    "namePlaceholder": "Seu nome completo",
+    "email": "Email",
+    "emailPlaceholder": "seu@email.com",
+    "message": "Mensagem",
+    "messagePlaceholder": "Conte sobre o projeto ou oportunidade...",
+    "submit": "Enviar mensagem",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada! Responderei em breve.",
+    "errorTitle": "Falha ao enviar",
+    "errorBody": "Algo deu errado. Tente novamente ou me contate diretamente por email.",
+    "retry": "Tentar novamente",
+    "errors": {
+      "nameRequired": "Nome é obrigatório",
+      "emailRequired": "Email é obrigatório",
+      "emailInvalid": "Email inválido",
+      "messageRequired": "Mensagem é obrigatória",
+      "messageTooLong": "Máximo de 1000 caracteres"
+    }
+  },
+  "socials": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "email": "Email direto"
+  }
+}

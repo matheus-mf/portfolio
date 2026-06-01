@@ -1,0 +1,32 @@
+{
+  "eyebrow": "Contact",
+  "title": "Let's work together",
+  "subtitle": "Open to freelance projects, full-time positions, and technical collaborations.",
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about the project or opportunity...",
+    "submit": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent! I'll respond soon.",
+    "errorTitle": "Failed to send",
+    "errorBody": "Something went wrong. Please try again or contact me directly by email.",
+    "retry": "Try again",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email",
+      "messageRequired": "Message is required",
+      "messageTooLong": "Maximum 1000 characters"
+    }
+  },
+  "socials": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "email": "Direct email"
+  }
+}

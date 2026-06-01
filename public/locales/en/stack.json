@@ -1,0 +1,84 @@
+{
+  "eyebrow": "Arsenal",
+  "title": "Technology Stack",
+  "categories": {
+    "frontend": {
+      "label": "Frontend",
+      "description": "Modern, accessible, and performant interfaces",
+      "items": {
+        "react":      "main",
+        "nextjs":     "SSR/SSG",
+        "vuejs":      "alternative",
+        "typescript": "always",
+        "chakra-ui":  "components",
+        "ant-design": "enterprise",
+        "tanstack":   "state/query",
+        "storybook":  "components",
+        "vitest":     "testing",
+        "zod":        "validation"
+      }
+    },
+    "backend": {
+      "label": "Backend",
+      "description": "Robust, scalable, and well-tested APIs",
+      "items": {
+        "nodejs":  "runtime",
+        "nestjs":  "framework",
+        "express": "lightweight",
+        "django":  "Python",
+        "rest":    "standard",
+        "prisma":  "ORM",
+        "jwt":     "auth",
+        "jest":    "testing",
+        "pytest":  "Python",
+        "solid":   "principles"
+      }
+    },
+    "cloud": {
+      "label": "Cloud & DevOps",
+      "description": "Infrastructure as code, CI/CD, and observability",
+      "items": {
+        "aws-ec2":         "compute",
+        "aws-lambda":      "serverless",
+        "aws-s3":          "storage",
+        "aws-rds":         "managed DB",
+        "aws-cloudwatch":  "monitoring",
+        "aws-eventbridge": "events",
+        "aws-iam":         "security",
+        "github-actions":  "CI/CD",
+        "docker":          "containers"
+      }
+    },
+    "database": {
+      "label": "Database",
+      "description": "Relational, document, and cache persistence",
+      "items": {
+        "postgresql": "main",
+        "mariadb":    "relational",
+        "redis":      "cache/queues",
+        "dynamodb":   "NoSQL AWS",
+        "firebase":   "BaaS"
+      }
+    },
+    "ai": {
+      "label": "AI & ML",
+      "description": "AI tools and development automation",
+      "items": {
+        "figma-make":    "design AI",
+        "claude-api":    "Anthropic",
+        "lovable":       "fullstack AI",
+        "hill-climbing": "optimization"
+      }
+    },
+    "tools": {
+      "label": "Tools",
+      "description": "Productivity, quality, and continuous delivery",
+      "items": {
+        "figma":   "design",
+        "notion":  "docs",
+        "swagger": "API docs",
+        "sentry":  "errors"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "eyebrow": "Arsenal",
+  "title": "Stack Tecnológica",
+  "categories": {
+    "frontend": {
+      "label": "Frontend",
+      "description": "Interfaces modernas, acessíveis e performáticas",
+      "items": {
+        "react":      "principal",
+        "nextjs":     "SSR/SSG",
+        "vuejs":      "alternativa",
+        "typescript": "sempre",
+        "chakra-ui":  "components",
+        "ant-design": "enterprise",
+        "tanstack":   "state/query",
+        "storybook":  "componentes",
+        "vitest":     "testes",
+        "zod":        "validação"
+      }
+    },
+    "backend": {
+      "label": "Backend",
+      "description": "APIs robustas, escaláveis e bem testadas",
+      "items": {
+        "nodejs":  "runtime",
+        "nestjs":  "framework",
+        "express": "leve",
+        "django":  "Python",
+        "rest":    "padrão",
+        "prisma":  "ORM",
+        "jwt":     "auth",
+        "jest":    "testes",
+        "pytest":  "Python",
+        "solid":   "princípios"
+      }
+    },
+    "cloud": {
+      "label": "Cloud & DevOps",
+      "description": "Infraestrutura como código, CI/CD e observabilidade",
+      "items": {
+        "aws-ec2":         "compute",
+        "aws-lambda":      "serverless",
+        "aws-s3":          "storage",
+        "aws-rds":         "managed DB",
+        "aws-cloudwatch":  "monitoring",
+        "aws-eventbridge": "events",
+        "aws-iam":         "segurança",
+        "github-actions":  "CI/CD",
+        "docker":          "containers"
+      }
+    },
+    "database": {
+      "label": "Banco de Dados",
+      "description": "Persistência relacional, documental e em cache",
+      "items": {
+        "postgresql": "principal",
+        "mariadb":    "relacional",
+        "redis":      "cache/filas",
+        "dynamodb":   "NoSQL AWS",
+        "firebase":   "BaaS"
+      }
+    },
+    "ai": {
+      "label": "AI & ML",
+      "description": "Ferramentas de IA e automação de desenvolvimento",
+      "items": {
+        "figma-make":    "design AI",
+        "claude-api":    "Anthropic",
+        "lovable":       "fullstack AI",
+        "hill-climbing": "otimização"
+      }
+    },
+    "tools": {
+      "label": "Ferramentas",
+      "description": "Produtividade, qualidade e entrega contínua",
+      "items": {
+        "figma":   "design",
+        "notion":  "docs",
+        "swagger": "API docs",
+        "sentry":  "erros"
+      }
+    }
+  }
+}

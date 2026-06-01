@@ -1,0 +1,33 @@
+{
+  "eyebrow": "Sobre Mim",
+  "title": "Desenvolvedor apaixonado por entregar valor",
+  "bio": {
+    "p1": "Tenho mais de {{years}} anos desenvolvendo softwares para diversos setores de empresas nacionais e internacionais. Ao longo desta jornada, construí soluções que vão do MVP ao produto escalado, sempre com foco em performance e qualidade.",
+    "p2": "Nos projetos, não me limito somente às tecnologias, busco entender profundamente os produtos e seus mercados de atuação. Meu objetivo não é entregar apenas código, mas sim valor real aos clientes e ao negócio.",
+    "p3": "Sou apaixonado por viajar e conhecer novas pessoas e culturas. Graças à minha carreira, já tive a oportunidade de conhecer as 5 regiões do Brasil e mais de 18 países. Estou sempre aberto a colegas, gestores e profissionais, sinta-se à vontade para entrar em contato."
+  },
+  "stats": {
+    "years": "anos de experiência",
+    "projects": "projetos entregues",
+    "companies": "empresas parceiras",
+    "countries": "países visitados"
+  },
+  "pillars": {
+    "value": {
+      "title": "Além do Código",
+      "description": "Não me limito às tecnologias, mergulho nos produtos e mercados para entregar valor real, não apenas funcionalidades."
+    },
+    "product": {
+      "title": "Visão de Negócio",
+      "description": "Entendo o contexto e o impacto de cada decisão técnica nos resultados do cliente e da empresa."
+    },
+    "global": {
+      "title": "Visão Global",
+      "description": "5 regiões do Brasil e 18+ países vividos. Diversidade de perspectivas molda como enfrento problemas."
+    },
+    "open": {
+      "title": "Sempre Aberto",
+      "description": "Aberto a colegas, gestores e profissionais. Acredito que as melhores ideias nascem da troca."
+    }
+  }
+}

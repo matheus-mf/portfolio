@@ -1,0 +1,44 @@
+{
+  "eyebrow": "Habilidades",
+  "title": "Stack Técnica & Soft Skills",
+  "tabs": {
+    "hard": "Hard Skills",
+    "soft": "Soft Skills",
+    "tags": "Tecnologias"
+  },
+  "categories": {
+    "Frontend": "Frontend",
+    "Language": "Linguagens",
+    "Backend": "Backend",
+    "Database": "Banco de Dados",
+    "Cloud": "Cloud",
+    "DevOps": "DevOps",
+    "Design": "Design"
+  },
+  "softSkills": {
+    "team-leadership": {
+      "name": "Liderança de Equipe",
+      "description": "Condução técnica de times, mentoria, code review e definição de padrões"
+    },
+    "communication": {
+      "name": "Comunicação Clara",
+      "description": "Documentação técnica, apresentações para stakeholders e comunicação assíncrona"
+    },
+    "adaptability": {
+      "name": "Adaptabilidade",
+      "description": "Rápida assimilação de novas tecnologias, stacks e contextos de produto"
+    },
+    "problem-solving": {
+      "name": "Resolução de Problemas",
+      "description": "Debug sistemático, análise de root cause e condução de post-mortems"
+    },
+    "agile-methods": {
+      "name": "Metodologias Ágeis",
+      "description": "Scrum, sprints, cerimônias e melhoria contínua do processo de desenvolvimento"
+    },
+    "systemic-thinking": {
+      "name": "Pensamento Sistêmico",
+      "description": "Visão de trade-offs, impacto arquitetural e tomada de decisões de longo prazo"
+    }
+  }
+}

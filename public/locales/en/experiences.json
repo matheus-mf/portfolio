@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Career",
+  "title": "Professional Experience",
+  "current": "Current",
+  "fullTime": "Full Time",
+  "internship": "Internship",
+  "temporary": "Fellow / Temporary",
+  "tog-lab": {
+    "role": "Software Engineering Full Stack | Project Manager",
+    "period": "Jul 2024 — Present",
+    "location": "Remote",
+    "highlights": [
+      "Development and maintenance of features for customer and sales management in a financial system focused on the agribusiness market",
+      "Backlog management and multidisciplinary team coordination as project manager",
+      "Co-creation of product and definition of strategic solutions aligned to agribusiness demands",
+      "Full stack development covering from the salesperson journey to intermediation with financial institutions"
+    ]
+  },
+  "nees-senior": {
+    "role": "Senior Software Engineering Full Stack",
+    "period": "Jun 2024 — Present",
+    "location": "Remote",
+    "highlights": [
+      "Development of backend features for a school management system serving all school networks in Brazil",
+      "Support to the database team in data modeling and structuring",
+      "Collaboration with the infrastructure team in the deployment and CI/CD process",
+      "Work with the requirements team in prioritizing and evaluating project activities"
+    ]
+  },
+  "diti-performance": {
+    "role": "Software Engineering Full Stack",
+    "period": "Dec 2022 — Apr 2024",
+    "location": "Remote",
+    "highlights": [
+      "Development of SEO performance analysis and metrics system for a multinational retail leader",
+      "Integration with multiple Google Stack APIs (Search Console, Analytics, Merchant Center)",
+      "Definition of architectural standards and implementation of Clean Architecture in backend and frontend projects",
+      "Development of serverless automated systems on AWS focused on scalability"
+    ]
+  },
+  "nees-first": {
+    "role": "Software Engineering Full Stack",
+    "period": "Apr 2022 — Jan 2023",
+    "location": "Remote",
+    "highlights": [
+      "Development of scalable software for over 26,000 students and teachers from Brazilian public schools",
+      "Creation of a React JS component library adopted by 20+ developers across different projects",
+      "Definition of architectural standards and implementation of Clean Code and Clean Architecture best practices",
+      "Projects focused on learning recovery affected by the COVID-19 pandemic"
+    ]
+  },
+  "vetta": {
+    "role": "Software Engineering Full Stack",
+    "period": "Dec 2021 — Nov 2022",
+    "location": "Remote",
+    "highlights": [
+      "Development of energy efficiency and sustainability systems for the world's largest metallurgical companies",
+      "Creation of frontend components with SOLID principles and list virtualization, improving performance and maintainability",
+      "Development of endpoints with statistical calculations for visualization in interactive tables and charts"
+    ]
+  },
+  "tog-design": {
+    "role": "Software Engineering Trainee → Junior → Full Stack",
+    "period": "Sep 2019 — Dec 2021",
+    "location": "Dois Vizinhos, PR (Hybrid)",
+    "highlights": [
+      "Creation of a React JS component library with usage documentation for standardization across projects",
+      "Development of React micro frontends for a reference company in preventive and diagnostic medicine in Brazil",
+      "Implementation of web projects on Linux servers with Docker and Nginx",
+      "Progression from Trainee to Junior and Full Stack over 2 years and 4 months at the same company"
+    ]
+  },
+  "pinha-digital": {
+    "role": "Software Engineering Trainee",
+    "period": "Apr 2019 — Sep 2019",
+    "location": "Dois Vizinhos, PR",
+    "highlights": [
+      "Development of the responsive catalog system for Grupo Doce D'ocê (ultra-frozen foods)",
+      "Collaboration in defining behaviors and graphic interfaces for national and international projects",
+      "Maintenance of the Accord Iluminação system: implementation of a new page and bug fixes"
+    ]
+  }
+}

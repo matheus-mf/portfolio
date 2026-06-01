@@ -1,0 +1,33 @@
+{
+  "eyebrow": "About Me",
+  "title": "Developer passionate about delivering value",
+  "bio": {
+    "p1": "I have over {{years}} years developing software for various sectors of national and international companies. Throughout this journey, I have built solutions ranging from MVP to scaled product, always focused on performance and quality.",
+    "p2": "In projects, I don't limit myself only to technologies, I seek to deeply understand products and their markets. My goal is not just to deliver code, but real value to clients and the business.",
+    "p3": "I am passionate about traveling and meeting new people and cultures. Thanks to my career, I have had the opportunity to visit all 5 regions of Brazil and more than 18 countries. I am always open to colleagues, managers, and professionals, feel free to get in touch."
+  },
+  "stats": {
+    "years": "years of experience",
+    "projects": "projects delivered",
+    "companies": "partner companies",
+    "countries": "countries visited"
+  },
+  "pillars": {
+    "value": {
+      "title": "Beyond the Code",
+      "description": "I don't limit myself to technologies, I dive into products and markets to deliver real value, not just features."
+    },
+    "product": {
+      "title": "Business Mindset",
+      "description": "I understand the context and impact of each technical decision on client and company outcomes."
+    },
+    "global": {
+      "title": "Global Perspective",
+      "description": "5 regions of Brazil and 18+ countries lived. Diversity of perspectives shapes how I approach problems."
+    },
+    "open": {
+      "title": "Always Open",
+      "description": "Open to colleagues, managers, and professionals. I believe the best ideas come from exchange."
+    }
+  }
+}

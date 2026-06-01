@@ -1,0 +1,83 @@
+{
+  "eyebrow": "Carreira",
+  "title": "Experiência Profissional",
+  "current": "Atual",
+  "fullTime": "Tempo integral",
+  "internship": "Estágio",
+  "temporary": "Bolsista / Temporário",
+  "tog-lab": {
+    "role": "Software Engineering Full Stack | Project Manager",
+    "period": "jul 2024 — Presente",
+    "location": "Remoto",
+    "highlights": [
+      "Desenvolvimento e manutenção de funcionalidades para gestão de clientes e vendas em sistema financeiro voltado ao mercado agropecuário",
+      "Gerenciamento de backlog e coordenação de equipe multidisciplinar como project manager",
+      "Co-criação de produto e definição de soluções estratégicas alinhadas às demandas do agronegócio",
+      "Atuação full stack cobrindo desde a jornada do vendedor até a intermediação com instituições financeiras"
+    ]
+  },
+  "nees-senior": {
+    "role": "Senior Software Engineering Full Stack",
+    "period": "jun 2024 — Presente",
+    "location": "Remoto",
+    "highlights": [
+      "Desenvolvimento de funcionalidades no back-end para sistema de gestão escolar que atende todas as redes de ensino do Brasil",
+      "Apoio à equipe de banco de dados na modelagem e estruturação dos dados do sistema",
+      "Colaboração com o time de infraestrutura no processo de implantação e deploys",
+      "Atuação junto ao time de requisitos na priorização e avaliação das atividades do projeto"
+    ]
+  },
+  "diti-performance": {
+    "role": "Software Engineering Full Stack",
+    "period": "dez 2022 — abr 2024",
+    "location": "Remoto",
+    "highlights": [
+      "Desenvolvimento de sistema de análise e metrificação de performance de SEO para multinacional líder em varejo",
+      "Integração com múltiplas APIs da Google Stack (Search Console, Analytics, Merchant Center)",
+      "Definição de padrões arquiteturais e implantação de Clean Architecture nos projetos back-end e front-end",
+      "Desenvolvimento de sistemas automatizados serverless na AWS com foco em escalabilidade"
+    ]
+  },
+  "nees-first": {
+    "role": "Software Engineering Full Stack",
+    "period": "abr 2022 — jan 2023",
+    "location": "Remoto",
+    "highlights": [
+      "Desenvolvimento de software escalável para mais de 26 mil alunos e professores de escolas públicas do Brasil",
+      "Criação de biblioteca de componentes em React JS adotada por 20+ desenvolvedores em projetos distintos",
+      "Definição de padrões arquiteturais e implantação de boas práticas de Clean Code e Clean Architecture",
+      "Projetos voltados à recuperação do aprendizado afetado pela pandemia de COVID-19"
+    ]
+  },
+  "vetta": {
+    "role": "Software Engineering Full Stack",
+    "period": "dez 2021 — nov 2022",
+    "location": "Remoto",
+    "highlights": [
+      "Desenvolvimento de sistemas de eficiência energética e sustentabilidade para as maiores metalúrgicas do mundo",
+      "Criação de componentes frontend com princípios SOLID e virtualização de listas, melhorando performance e manutenção",
+      "Desenvolvimento de endpoints com cálculos estatísticos para visualização em tabelas e gráficos interativos"
+    ]
+  },
+  "tog-design": {
+    "role": "Software Engineering Trainee → Júnior → Full Stack",
+    "period": "set 2019 — dez 2021",
+    "location": "Dois Vizinhos, PR (Híbrido)",
+    "highlights": [
+      "Criação de biblioteca de componentes em React JS com documentação de uso para padronização entre projetos",
+      "Desenvolvimento de micro frontends em React para empresa referência em medicina preventiva e diagnóstica no Brasil",
+      "Implementação de projetos web em servidores Linux com Docker e Nginx",
+      "Progressão de Trainee para Júnior e Full Stack ao longo de 2 anos e 4 meses na mesma empresa"
+    ]
+  },
+  "pinha-digital": {
+    "role": "Software Engineering Trainee",
+    "period": "abr 2019 — set 2019",
+    "location": "Dois Vizinhos, PR",
+    "highlights": [
+      "Desenvolvimento do sistema responsivo de catálogo para o Grupo Doce D'ocê (alimentos ultracongelados)",
+      "Colaboração na definição de comportamentos e interfaces gráficas para projetos nacionais e internacionais",
+      "Manutenção do sistema Accord Iluminação: implementação de nova página e correção de bugs"
+    ]
+  }
+}

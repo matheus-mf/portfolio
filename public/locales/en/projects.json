@@ -1,0 +1,41 @@
+{
+  "eyebrow": "Portfolio",
+  "title": "Featured Projects",
+  "filters": {
+    "all": "All",
+    "featured": "Featured"
+  },
+  "status": {
+    "publicado": "Published",
+    "em-producao": "In Production",
+    "open-source": "Open Source",
+    "mvp": "MVP",
+    "arquivado": "Archived"
+  },
+  "links": {
+    "github": "View code",
+    "demo": "View demo"
+  },
+  "items": {
+    "gpe": {
+      "name": "School Presence Management (GPE) by MEC",
+      "description": "Federal Government platform that modernizes public school management, automating enrollments, class assignments, and class diaries. I served as developer and tech lead in building the system, which integrates municipal networks to a national educational database."
+    },
+    "seo-dashboard": {
+      "name": "SEO Analysis Dashboard",
+      "description": "SEO metrics system for a large multinational retailer, integrating multiple Google Stack APIs to monitor page performance, keywords, and sales conversion rates in an interactive dashboard."
+    },
+    "needs": {
+      "name": "NeeDS, Component Library",
+      "description": "Institutionalized design system inspired by the Federal Government's visual identity, created to standardize development across 10+ teams. Published via npm, it eliminated redundant component recreation throughout the ecosystem."
+    },
+    "seu-sistema": {
+      "name": "Forest Restoration System",
+      "description": "Online platform that regularizes rural properties with illegal deforestation in the Amazon, allowing producers to return to the formal market through auditable technical procedures, with support from accredited technicians and periodic environmental monitoring."
+    },
+    "doce-doce": {
+      "name": "Grupo Doce D'ocê Institutional Website",
+      "description": "Grupo Doce D'ocê is the largest ultra-frozen food industry in Paraná, with 33 years of history. The website presents its trajectory, brand portfolio, national presence, and the values that make the company one of the best to work for in the state."
+    }
+  }
+}
