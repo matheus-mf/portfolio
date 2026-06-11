@@ -41,5 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 # sitemap (gerado no build pelo next-sitemap)
-/public/sitemap.xml
+/public/sitemap*.xml
 /public/robots.txt
