@@ -92,7 +92,7 @@ Visual dark premium — inspirado em Linear, Vercel, GitHub e Raycast. Totalment
 ```
 Nome:       Matheus Moreira Ferreira
 Cargo:      Senior Full-Stack Engineer & Tech Lead
-Bio:        "Mais de 7 anos entregando software para empresas nacionais e internacionais — do MVP ao produto escalado. Além das tecnologias, mergulho nos produtos e mercados para gerar valor real ao negócio."
+Bio:        "Mais de 7 anos entregando software para empresas nacionais e internacionais, do MVP ao produto escalado. Além das tecnologias, mergulho nos produtos e mercados para gerar valor real ao negócio."
 Localização: Curitiba, Brasil
 Disponível: true
 Email:      matheus.cll.g@gmail.com
